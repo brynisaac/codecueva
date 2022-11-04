@@ -1,3 +1,6 @@
+:root {
+  --primary: #006341;
+}
 .container {
   max-width: 1200px;
   margin: 0 auto;
@@ -6,6 +9,6 @@ h1 {
   font-size: 1.5rem;
   font-weight: 500;
   padding: 2.0rem 0;
-  color: #4a4a4a;
+  color: var(--primary);
   line-height: 1.1; 
 }
