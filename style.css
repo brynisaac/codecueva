@@ -1,9 +1,8 @@
 :root {
   --primary: #006341;
 }
-.container {
-  max-width: 1200px;
-  margin: 0 auto;
+body {
+  margin: 0;
 }
 h1 {
   font-size: 1.8rem;
@@ -14,4 +13,9 @@ h1 {
 }
 footer {
   background-color: #000000;
+  color: #ffffff;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
 }
