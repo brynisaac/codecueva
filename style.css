@@ -25,3 +25,7 @@ footer {
   max-width: 1200px;
   margin: 0 auto;
 }
+.fresh-green {
+  display:flex;
+  background: #00b2a9;
+}
