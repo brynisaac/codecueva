@@ -32,3 +32,6 @@ footer {
   display:flex;
   background: #00b2a9;
 }
+.base-font {
+  font-family: arial, sans-serif;
+}
