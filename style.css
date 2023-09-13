@@ -1,5 +1,6 @@
 :root {
   --primary: #006341;
+  --fresh-green: #00b2a9;
 }
 body {
   margin: 0;
@@ -32,7 +33,7 @@ footer {
 }
 .fresh-green {
   display:flex;
-  background: #00b2a9;
+  background: var(--fresh-green);
 }
 .base-font {
   font-family: arial, sans-serif;
